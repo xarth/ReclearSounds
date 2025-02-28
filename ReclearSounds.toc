@@ -1,0 +1,12 @@
+## Interface: 110100
+## Version: 1.0
+## Title: ReclearSounds
+## Author: Xarth
+## Notes: Extra Sounds For Weakauras for the Reclear Guild.
+
+
+Libs\LibStub\LibStub.lua
+Libs\LibSharedMedia-3.0\CallBackHandler-1.0\CallBackHandler-1.0.lua
+Libs\LibSharedMedia-3.0\lib.xml
+
+core.lua
